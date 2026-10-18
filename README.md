@@ -37,6 +37,6 @@ I'm currently looking for a **PFA internship** in cybersecurity (pentest / SOC /
 
 ## 📫 Contact
 
-- LinkedIn:([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/salaheddine-souadi/))
+- LinkedIn:[LinkedIn]([https://www.linkedin.com/in/salaheddine-souadi/])
 - Email: salahsouadi47@gmail.com
 - Location: Casablanca, Morocco
