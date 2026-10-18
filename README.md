@@ -1,144 +1,49 @@
-# Hi, I'm Salah 👋
+# Hi, I'm Salaheddine Souadi 👋
 
-### Cybersecurity & Cloud Computing Engineering Student
+**Cybersecurity & Cloud Computing engineering student** at ENSAM Casablanca, focused on offensive security, detection engineering, and cloud security.
 
-🎓 Engineering student at **ENSAM Casablanca**, specializing in **Cybersecurity & Cloud Computing**.
+I'm currently looking for a **PFA internship** in cybersecurity (pentest / SOC / cloud security).
 
-🔐 Interested in **Offensive Security, Cloud Security, SOC & SIEM, Network Security, and Web Application Security**.
+## 🔍 What I work on
 
-I enjoy understanding how systems can be attacked, identifying security weaknesses, and building solutions to improve detection, monitoring, and protection.
+- **Offensive security:** external black-box pentesting, web app security, CTF challenges
+- **Detection & monitoring:** SIEM (Wazuh, Microsoft Sentinel), KQL detection rules, log analysis
+- **Cloud security:** Azure monitoring and security (Entra ID, Azure Monitor, Log Analytics)
+- **Security + ML:** applying machine learning to threat detection
 
----
+## 💼 Experience
 
-## 🛡️ About Me
+- **Cybersecurity / Cloud Security intern, Smartovate Ltd** (Jul–Aug 2026): built a cloud-native SIEM with Microsoft Sentinel, wrote KQL detection rules (brute force, mass deletion of Azure resources), deployed the Azure Monitor Agent with Data Collection Rules.
+- **Cybersecurity intern, 2WLS** (Jul–Aug 2025): external black-box penetration test and ISO 27001 recertification support.
 
-- 🎓 Cybersecurity & Cloud Computing Engineering Student
-- 🔴 Interested in **Offensive Security & Penetration Testing**
-- 🔵 Interested in **SOC, SIEM & Detection Engineering**
-- ☁️ Interested in **Cloud & Azure Security**
-- 🌐 Interested in **Network & Web Application Security**
-- 🧪 Always learning through practical security projects and labs
+## 🛠️ Featured projects
 
----
+| Project | Description | Stack |
+|---|---|---|
+| [**Custom WAF**](link-to-repo) | Web Application Firewall built from scratch as a reverse proxy, with 16 rules covering SQLi, XSS, path traversal, command injection and scanners. Tested against DVWA and compared with ModSecurity + OWASP CRS. | Python, Docker Compose, DVWA, ModSecurity |
+| [**SIEM log analysis & intelligent threat detection**](link-to-repo) | End-to-end pipeline: log ingestion into Wazuh, Streamlit dashboards, ML risk scoring, predictions fed back into Wazuh alert rules. Team project (4 people). | Wazuh, Streamlit, scikit-learn |
+| [**Adaptive IDS with blockchain traceability**](link-to-repo) | Intrusion detection system with tamper-proof event logging. | *(add stack)* |
+| [**SOC automation pipeline**](link-to-repo) | Automation workflow built around Wazuh SIEM. | Wazuh, Python |
 
-## 🚀 Featured Projects
+## 🧰 Tech stack
 
-### 🔥 WAF From Scratch
-**Web Application Firewall developed from scratch**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoft&logoColor=white)
 
-- HTTP traffic inspection and filtering
-- Detection of malicious requests
-- Web application security concepts
-- Custom security rules
+**Security tools:** Burp Suite · Nmap · Metasploit · Wireshark *(keep only what you really use)*
 
-**Technologies:** `Python` `Web Security` `HTTP` `WAF`
+## 🎯 Currently
 
----
+- Preparing the **eJPT** certification
+- Playing CTFs to sharpen offensive skills
+- Searching for a PFA internship
 
-### 🛡️ IDS & Blockchain Traceability
+## 📫 Contact
 
-**Intrusion Detection System with blockchain-based alert traceability**
-
-- Real-time security alert monitoring
-- Detection and classification of security events
-- PostgreSQL alert storage
-- Blockchain-based alert integrity verification
-- React dashboard for security monitoring
-
-**Technologies:** `React` `Node.js` `PostgreSQL` `Quorum` `Blockchain` `IDS`
-
----
-
-### 🤖 Wazuh & Machine Learning
-
-**Security monitoring and ML-based anomaly detection**
-
-- Security log collection and analysis
-- Wazuh-based monitoring
-- Machine Learning anomaly detection
-- Risk scoring
-- Security dashboards
-- Custom Wazuh detection rules
-
-**Technologies:** `Wazuh` `Python` `Machine Learning` `Streamlit` `KQL` `SIEM`
-
----
-
-### ☁️ Cloud-Native SIEM — Microsoft Sentinel
-
-**Deployment of a cloud-native SIEM using Microsoft Sentinel**
-
-- Centralized security log collection
-- Entra ID, Azure Activity and Windows/Linux logs
-- Custom KQL detection rules
-- Brute-force attack detection
-- Azure Monitor Agent (AMA)
-- Security Workbooks
-- Detection engineering and monitoring
-
-**Technologies:** `Microsoft Sentinel` `Azure Monitor` `Log Analytics` `KQL` `Entra ID` `AMA` `Azure RBAC`
-
----
-
-## 🧰 Technical Skills
-
-### 🔴 Offensive Security
-
-`Nmap` · `Burp Suite` · `Metasploit` · `Web Security` · `Network Reconnaissance` · `Vulnerability Assessment`
-
-### 🔵 Defensive Security
-
-`Wazuh` · `Microsoft Sentinel` · `SIEM` · `Log Analysis` · `Detection Engineering` · `Incident Detection`
-
-### ☁️ Cloud Security
-
-`Microsoft Azure` · `Entra ID` · `Azure Monitor` · `Log Analytics` · `Azure RBAC` · `Cloud Security`
-
-### 🌐 Network & Web
-
-`TCP/IP` · `DNS` · `HTTP/HTTPS` · `Network Scanning` · `VHost Discovery` · `Web Application Security`
-
-### 💻 Programming
-
-`Python` · `JavaScript` · `React` · `Node.js` · `SQL`
-
-### 🛠️ Tools & Technologies
-
-`Git` · `GitHub` · `Linux` · `Kali Linux` · `Docker` · `Jira`
-
----
-
-## 📚 Currently Learning
-
-- 🔴 Advanced Penetration Testing
-- ☁️ Cloud Security & Azure Security
-- 🔵 SOC & Detection Engineering
-- 🛡️ Security Monitoring & Incident Response
-- 🌐 Web Application Security
-- 🏗️ Cybersecurity Architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ Feel free to explore my repositories and projects.
+- LinkedIn: [your-link](https://linkedin.com/in/your-handle)
+- Email: your.email@example.com
+- Location: Casablanca, Morocco
