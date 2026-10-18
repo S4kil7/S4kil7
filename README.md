@@ -17,7 +17,7 @@ I'm currently looking for a **PFA internship** in cybersecurity (pentest / SOC /
 |---|---|---|
 | [**Custom WAF**](https://github.com/S4kil7/WAF-From-Scratch) | Web Application Firewall built from scratch as a reverse proxy, with 16 rules covering SQLi, XSS, path traversal, command injection and scanners. Tested against DVWA and compared with ModSecurity + OWASP CRS. | Python, Docker Compose, DVWA, ModSecurity |
 | [**SIEM log analysis & intelligent threat detection**](link-to-repo) | End-to-end pipeline: log ingestion into Wazuh, Streamlit dashboards, ML risk scoring, predictions fed back into Wazuh alert rules. Team project (4 people). | Wazuh, Streamlit, scikit-learn |
-| [**Adaptive IDS with blockchain traceability**](link-to-repo) | Intrusion detection system with tamper-proof event logging. | *(add stack)* |
+| [**Adaptive IDS with blockchain traceability**](link-to-repo) | Intrusion detection system with tamper-proof event logging. | |
 | [**SOC automation pipeline**](link-to-repo) | Automation workflow built around Wazuh SIEM. | Wazuh, Python |
 
 ## 🧰 Tech stack
